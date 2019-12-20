@@ -20,7 +20,7 @@ Blink soil moisture meter view :
 ![it looks like this](https://github.com/edanurtosun/watering-flower/blob/master/blink-app-2.PNG)
 ---------------------------------------------------------------------
 
-Project circiut diagram look like this : 
+Project circuit diagram look like this : 
 ---------------------------------------------------------------------
 ![it looks like this](https://github.com/edanurtosun/watering-flower/blob/master/circuit%20diagram.png)
 ---------------------------------------------------------------------
